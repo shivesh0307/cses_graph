@@ -1,0 +1,8 @@
+one is to see all vertices using visited array 
+
+other to see all edges 
+make vertice visited - true
+visit all neighbor 
+make visited of vertice false
+
+or use the edges vector
